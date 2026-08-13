@@ -49,3 +49,10 @@ python3 -m http.server 8000
 
 Per Bar Council of India rules, advocates may not solicit work or advertise. The
 footer carries a disclaimer; the site is informational only and not an advertisement.
+
+## 📄 License
+
+This is a client deliverable, not open-source software. All rights are
+reserved by the client, Adv. Samit Siddhanta — see [LICENSE](LICENSE). The
+code is shared here publicly for portfolio/demonstration purposes only and
+is not licensed for reuse.
